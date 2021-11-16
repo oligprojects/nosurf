@@ -23,7 +23,7 @@ No ad blocking is build in unfortunately but there there is alternative
 solutions for that. pi-hole etc.
 
 The QtWebEngine works quite well but has glitches that you may not see
-with with a regular browsers with better support. But overall it works with
+with a regular browsers with better support. But overall it works with
 about 98 percent with websites I tried. Hitting the reload button sometimes
 fixes odd rendering glitches.
 
