@@ -27,9 +27,10 @@ with with a regular browsers with better support. But overall it works with
 about 98 percent with websites I tried. Hitting the reload button sometimes
 fixes odd rendering glitches.
 
+Github
 https://github.com/oligprojects/
 
-youtube
+youtube video showing it in action
 https://youtu.be/v5ssc9t6nm4
 
 More info about the NoSurf movement at
